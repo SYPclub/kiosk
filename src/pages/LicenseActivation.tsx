@@ -8,7 +8,7 @@ import { Alert, AlertDescription } from '@/components/ui/alert';
 import { ShieldCheck, AlertCircle } from 'lucide-react';
 
 const VALID_LICENSE_KEYS = [
-  'YTMG3-N6DKC-DKB77-7M9GH-8HVX7'
+  'YTMG3'
 ];
 
 interface LicenseActivationProps {
